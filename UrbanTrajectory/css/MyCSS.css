@@ -1,0 +1,22 @@
+body,
+html {
+	height: 100%;
+	padding-top: 25px;
+	width: 100%; 
+	margin: 0; 
+}
+
+#map {
+	width: 55%;
+	height: 100%;
+	float: left;
+	z-index: 1;
+}
+
+#rightside {
+	width: 45%;
+	height: 100%;
+	position: sticky; 
+	background-color: "snow";
+	left: 70%;
+}
